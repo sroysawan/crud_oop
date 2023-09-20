@@ -1,2 +1,2 @@
 ## View Demo 
-- [Demo react-shopping-app](https://sroysawan-crudoop.netlify.app)
+- [Demo crud_oop](https://sroysawan-crudoop.netlify.app)
